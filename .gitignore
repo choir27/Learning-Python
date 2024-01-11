@@ -1,0 +1,8 @@
+.venv
+.vscode
+_pycache_
+background.wav
+bounce.wav
+fgoServants.txt.bak
+fgoServants.txt.dat
+fgoServants.txt.dir
