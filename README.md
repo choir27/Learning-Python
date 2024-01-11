@@ -4,7 +4,7 @@ Coding alongside as I continue to read Automate the Boring Stuff with Python, I 
 
 I also wanted to explore and learn about building and implementing my own functional video game using Python, therefore I started to watch Free Code Camps Youtube video series that goes over how to build simple games using Python.
 
-I also recently built this small program that creates quiz files consisting of randomized questions and multiple choices, along with answer sheets to each randomized quiz .txt file.
+I also recently built this small program that creates quiz files consisting of randomized questions and multiple choices, along with answer sheets to each randomized quiz .txt file.  This small program accepts user input to create quizzes with customized number of questions, number of studentds, the contents of the question and the answers.
 
-I want to next build upon this program where instead of having the questions, multiple choices, answers, number of students, and number of questions predetermined, the program will allow the user to create their own customized quizzes tailored to their classrooms with their own inputs.
+I want to add a "save" function for the user input, so that if the user wants to take a break and come back, save their progress, or edit their existing exams/answers, they have that option.
 
